@@ -589,7 +589,7 @@
   ["mobilize", "mobilise"],
   ["armor", "armour"],
   ["armored", "armoured"],
-  ["labeling", "labelling"],
+  ["labeling", "labelling"]{,
   ["endeavor", "endeavour"],
   ["civilize", "civilise"],
   ["civilized", "civilised"],
@@ -624,4 +624,5 @@
   ["fetus", "foetus"],
   ["fiber", "fibre"],
   ["programs", "programmes"]
+  ["program", "programme"]
 ]
